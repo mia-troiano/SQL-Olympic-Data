@@ -8,6 +8,7 @@
 
 ## Files
 - `/data`: CSVs
-- `/analysis`: SQL 
+- `/analysis`: SQL scripts
 - `/visuals`: screenshots of dashboard
 - `/reports`: reports for Coursera project
+  - Includes a project proposal, an in-depth overview of the descriptive statistics with visualizations, and a cumulative project presentation in PDF and PowerPoint form
