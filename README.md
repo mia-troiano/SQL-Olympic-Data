@@ -22,7 +22,7 @@ This analysis is valuable for:
 - `/data`: Raw Olympic data (CSV files)
 - `/sql`: SQL scripts for data cleaning and analysis
 - `/visualizations`: Screenshots and exports of dashboards (Snowflake/SourceTable)
-- `/reports`: Project proposal, exploratory data analysis, and final presentation ([see here](./reports/Final_Presentation.pdf))
+- `/reports`: Project proposal, exploratory data analysis, and final presentation ([see here](https://github.com/mia-troiano/SQL-Olympic-Data/blob/main/reports/Project%20Proposal.pdf))
 
 ## Technologies Used
 - SQL (Snowflake)
